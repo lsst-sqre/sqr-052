@@ -42,12 +42,6 @@
 
 .. sectnum::
 
-.. TODO: Delete the note below before merging new content to the master branch.
-
-.. note::
-
-   **This technote is not yet published.**
-
 The current design for automated user file storage provisioning requires
 that the user Lab pod be run without ``allowPrivilegeEscalation =
 False``.  This technote describes how to improve that design to block
